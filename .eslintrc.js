@@ -14,6 +14,7 @@ module.exports = {
   plugins: ["react"],
   rules: {
     "react/no-unescaped-entities": 0,
+    quotes: "off",
     "eslintreact/no-danger": 0,
     "react/jsx-max-props-per-line": 0,
     "react/jsx-first-prop-new-line": 0,
